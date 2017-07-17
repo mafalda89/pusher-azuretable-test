@@ -1,6 +1,6 @@
 # pusher-azuretable-test
 
-Solution that queries a generic LOG storage hosted on Azure Table to display realtime errors details on a front-end web page.
+Solution that queries a generic LOG storage hosted on Azure Table to display realtime error details on a front-end web page.
 
 ## Requirements
 - Azure WebJob
