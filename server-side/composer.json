@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pusher/pusher-php-server": "^3.0",
+        "microsoft/windowsazure": "^0.5.3"
+    }
+}
